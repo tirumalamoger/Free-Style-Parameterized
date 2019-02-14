@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo "This creates local repo for prod data process"
-mkdir /root/Jenkins-Repo/Free-Style-Parameterized/prod
+sudo mkdir /root/Jenkins-Repo/Free-Style-Parameterized/prod
 echo "prod dir-repo created successfully"

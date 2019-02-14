@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo "This creates local repo for upd data process"
-mkdir /root/Jenkins-Repo/Free-Style-Parameterized/upd
+sudo mkdir /root/Jenkins-Repo/Free-Style-Parameterized/upd
 echo "upd dir-repo created successfully"
