@@ -2,3 +2,4 @@
 
 echo "This creates local repo for dev data process"
 mkdir /root/Jenkins-Repo/Free-Style-Parameterized/dev
+echo "dev dir-repo created successfully"
