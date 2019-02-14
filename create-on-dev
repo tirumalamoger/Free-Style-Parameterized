@@ -1,3 +1,4 @@
 #!/bin/bash
 
 echo "This creates local repo for dev data process"
+mkdir /root/Jenkins-Repo/Free-Style-Parameterized/dev
